@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288799958274",
+    "project_id": "zylutask-f403a",
+    "storage_bucket": "zylutask-f403a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288799958274:android:536b2a9908c8eb129c0e1b",
+        "android_client_info": {
+          "package_name": "com.example.zylutask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlS8nLMpGBrTNS5WUH54d-5Ipyx68vJ6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
